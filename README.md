@@ -6,6 +6,7 @@ IDE Used: **PyCharm**
 # Preview
 
 - calculator
+  
 ![calculator](https://github.com/Andu02/py_basic_apps/assets/133790348/c478da74-3039-4fd3-ae1a-3679e49b192a)
 
 - convertor
