@@ -10,10 +10,13 @@ IDE Used: **PyCharm**
 ![calculator](https://github.com/Andu02/py_basic_apps/assets/133790348/c478da74-3039-4fd3-ae1a-3679e49b192a)
 
 - convertor
+  
 ![convertor](https://github.com/Andu02/py_basic_apps/assets/133790348/806eeced-756b-46ef-9a20-42ae5c1df609)
 
 - stopwatch
+  
 ![stopwatch](https://github.com/Andu02/py_basic_apps/assets/133790348/eadae070-b57d-430d-99d3-c8d4838bbf27)
 
-- text editor (not finished_
+- text editor (not finished)
+  
 ![text_editor](https://github.com/Andu02/py_basic_apps/assets/133790348/a0e96d76-f6b8-4534-994b-129b1c69db22)
